@@ -1,3 +1,8 @@
+## NOTE
+
+Enter base url and port of the server, in order to make api requests, in file `src/config/config.js`
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
